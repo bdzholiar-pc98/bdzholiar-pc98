@@ -40,12 +40,41 @@
 
 ## `> STACK`
 
-```text
-[ HARDWARE LAYER ] ...... C · C++ · Rust · Go · Assembly
-[ KERNEL MODIFIERS ] .... Python · Django · FastAPI · PostgreSQL
-[ SIGNAL TRANSMITTERS ] . JavaScript · TypeScript · React · Node.js
-[ WORKER DRONES ] ....... Docker · Kubernetes · CI/CD · Bash · Linux
-```
+<div align="center">
+
+<!-- Монохромні SVG-іконки, колір #00FF00 (зелений фосфор). Прозорий фон, без різнокольорових плашок. -->
+
+`[ HARDWARE LAYER ]`
+<br/>
+<img height="38" src="https://cdn.simpleicons.org/c/00FF00" alt="C" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/cplusplus/00FF00" alt="C++" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/rust/00FF00" alt="Rust" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/go/00FF00" alt="Go" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/linux/00FF00" alt="Linux" />
+
+`[ KERNEL MODIFIERS ]`
+<br/>
+<img height="38" src="https://cdn.simpleicons.org/python/00FF00" alt="Python" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/django/00FF00" alt="Django" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/fastapi/00FF00" alt="FastAPI" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/postgresql/00FF00" alt="PostgreSQL" />
+
+`[ SIGNAL TRANSMITTERS ]`
+<br/>
+<img height="38" src="https://cdn.simpleicons.org/javascript/00FF00" alt="JavaScript" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/typescript/00FF00" alt="TypeScript" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/react/00FF00" alt="React" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/nodedotjs/00FF00" alt="Node.js" />
+
+`[ WORKER DRONES ]`
+<br/>
+<img height="38" src="https://cdn.simpleicons.org/docker/00FF00" alt="Docker" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/kubernetes/00FF00" alt="Kubernetes" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/githubactions/00FF00" alt="CI/CD" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/gnubash/00FF00" alt="Bash" />&nbsp;&nbsp;
+<img height="38" src="https://cdn.simpleicons.org/git/00FF00" alt="Git" />
+
+</div>
 
 ## `> TELEMETRY`
 
